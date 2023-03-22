@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f175733-0bdc-41ea-b729-14d7503c2c81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Return1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReturnNScope.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -38,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReturnNScope.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+            <state relative-caret-position="1207">
+              <caret line="72" column="75" lean-forward="true" selection-start-line="72" selection-start-column="75" selection-end-line="72" selection-end-column="75" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Return1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -81,7 +79,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="714" />
+    <option name="y" value="-9" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -91,7 +90,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,6 +101,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,7 +143,8 @@
       <workItem from="1678984628040" duration="2436000" />
       <workItem from="1678987092874" duration="207000" />
       <workItem from="1678987372112" duration="426000" />
-      <workItem from="1679070928479" duration="818000" />
+      <workItem from="1679070928479" duration="2995000" />
+      <workItem from="1679503081038" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="functions notes">
       <created>1678813258901</created>
@@ -167,15 +167,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678901182841</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ReturnNScope">
+      <created>1679071793664</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679071793664</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ReturnNScope">
+      <created>1679074132437</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679074132437</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10064000" />
+    <option name="totallyTimeSpent" value="12838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -201,7 +214,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="functions notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="functions notes" />
+    <MESSAGE value="ReturnNScope" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReturnNScope" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FunctionsNotes.js">
@@ -220,8 +234,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ReturnNScope.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+        <state relative-caret-position="1207">
+          <caret line="72" column="75" lean-forward="true" selection-start-line="72" selection-start-column="75" selection-end-line="72" selection-end-column="75" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -230,8 +244,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Return1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
