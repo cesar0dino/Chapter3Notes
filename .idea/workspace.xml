@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f175733-0bdc-41ea-b729-14d7503c2c81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayNotes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays2Notes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays1.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,17 +60,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArrayNotes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="-211">
               <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arrays1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="469">
+              <caret line="90" column="79" lean-forward="true" selection-start-line="90" selection-start-column="79" selection-end-line="90" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arrays2Notes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Arrays2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -97,6 +119,8 @@
         <option value="$PROJECT_DIR$/Return1.js" />
         <option value="$PROJECT_DIR$/ArrayNotes.js" />
         <option value="$PROJECT_DIR$/Arrays1.js" />
+        <option value="$PROJECT_DIR$/Arrays2Notes.js" />
+        <option value="$PROJECT_DIR$/Arrays2.js" />
       </list>
     </option>
   </component>
@@ -168,7 +192,8 @@
       <workItem from="1679070928479" duration="2995000" />
       <workItem from="1679503081038" duration="896000" />
       <workItem from="1679589392656" duration="3172000" />
-      <workItem from="1679675722907" duration="2018000" />
+      <workItem from="1679675722907" duration="2129000" />
+      <workItem from="1679934916861" duration="2959000" />
     </task>
     <task id="LOCAL-00001" summary="functions notes">
       <created>1678813258901</created>
@@ -212,14 +237,22 @@
       <option name="project" value="LOCAL" />
       <updated>1679505360796</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ArrayNotes">
+      <created>1679678798925</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679678798925</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18327000" />
+    <option name="totallyTimeSpent" value="21397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -246,7 +279,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="functions notes" />
     <MESSAGE value="ReturnNScope" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReturnNScope" />
+    <MESSAGE value="ArrayNotes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayNotes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FunctionsNotes.js">
@@ -282,15 +316,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ArrayNotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="-211">
           <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="469">
+          <caret line="90" column="79" lean-forward="true" selection-start-line="90" selection-start-column="79" selection-end-line="90" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays2Notes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
